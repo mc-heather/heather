@@ -1,0 +1,9 @@
+[submodule "heatherio"]
+	path = heatherio
+	url = https://github.com/mc-heather/heatherIO
+[submodule "universe"]
+	path = universe
+	url = https://github.com/mc-heather/heatherUniverse
+[submodule "tcp"]
+	path = tcp
+	url = https://github.com/mc-heather/heatherTCP
